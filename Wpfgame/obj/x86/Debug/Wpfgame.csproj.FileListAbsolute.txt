@@ -1,0 +1,53 @@
+C:\Users\Dennis\AppData\Local\Temporary Projects\Wpfgame\bin\Debug\Wpfgame.exe
+C:\Users\Dennis\AppData\Local\Temporary Projects\Wpfgame\bin\Debug\Wpfgame.pdb
+C:\Users\Dennis\AppData\Local\Temporary Projects\Wpfgame\obj\x86\Debug\MainWindow.baml
+C:\Users\Dennis\AppData\Local\Temporary Projects\Wpfgame\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dennis\AppData\Local\Temporary Projects\Wpfgame\obj\x86\Debug\App.g.cs
+C:\Users\Dennis\AppData\Local\Temporary Projects\Wpfgame\obj\x86\Debug\Wpfgame_MarkupCompile.cache
+C:\Users\Dennis\AppData\Local\Temporary Projects\Wpfgame\obj\x86\Debug\Wpfgame.g.resources
+C:\Users\Dennis\AppData\Local\Temporary Projects\Wpfgame\obj\x86\Debug\Wpfgame.Properties.Resources.resources
+C:\Users\Dennis\AppData\Local\Temporary Projects\Wpfgame\obj\x86\Debug\Wpfgame.csproj.GenerateResource.Cache
+C:\Users\Dennis\AppData\Local\Temporary Projects\Wpfgame\obj\x86\Debug\Wpfgame.exe
+C:\Users\Dennis\AppData\Local\Temporary Projects\Wpfgame\obj\x86\Debug\Wpfgame.pdb
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Debug\Wpfgame.exe
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Debug\Wpfgame.pdb
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Debug\MainWindow.baml
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Debug\App.g.cs
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Debug\Wpfgame_MarkupCompile.cache
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Debug\Wpfgame.g.resources
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Debug\Wpfgame.Properties.Resources.resources
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Debug\Wpfgame.csproj.GenerateResource.Cache
+C:\Users\Dennis\Documents\Visual Studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Debug\Wpfgame.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\bin\Debug\Wpfgame.exe
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\bin\Debug\Wpfgame.pdb
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\bin\Debug\WpfApplication1.exe
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\bin\Debug\WpfApplication1.pdb
+C:\Users\Dennis\Documents\Visual Studio 2010\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\Wpfgame.exe
+C:\Users\Dennis\Documents\Visual Studio 2010\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\Wpfgame.pdb
+C:\Users\Dennis\Documents\Visual Studio 2010\Projects\Wpfgame - Kopia\Wpfgame\bin\Debug\Wpfgame.exe
+C:\Users\Dennis\Documents\Visual Studio 2010\Projects\Wpfgame - Kopia\Wpfgame\bin\Debug\Wpfgame.pdb
+C:\Users\Dennis\Documents\Visual Studio 2010\Projects\Wpfgame - Kopia\Wpfgame\bin\Debug\WpfApplication1.exe
+C:\Users\Dennis\Documents\Visual Studio 2010\Projects\Wpfgame - Kopia\Wpfgame\bin\Debug\WpfApplication1.pdb
+C:\Users\Dennis\Documents\Visual Studio 2010\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\Wpfgame.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Documents\Visual Studio 2010\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\MainWindow.baml
+C:\Users\Dennis\Documents\Visual Studio 2010\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dennis\Documents\Visual Studio 2010\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\App.g.cs
+C:\Users\Dennis\Documents\Visual Studio 2010\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\Wpfgame_MarkupCompile.cache
+C:\Users\Dennis\Documents\Visual Studio 2010\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\Wpfgame.g.resources
+C:\Users\Dennis\Documents\Visual Studio 2010\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\Wpfgame.Properties.Resources.resources
+C:\Users\Dennis\Documents\Visual Studio 2010\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\Wpfgame.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\Wpfgame.exe
+C:\Users\User\Desktop\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\Wpfgame.pdb
+C:\Users\User\Desktop\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\Wpfgame.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Desktop\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\App.g.cs
+C:\Users\User\Desktop\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\Wpfgame_MarkupCompile.cache
+C:\Users\User\Desktop\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\Wpfgame.g.resources
+C:\Users\User\Desktop\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\Wpfgame.Properties.Resources.resources
+C:\Users\User\Desktop\Projects\Wpfgame - Kopia\Wpfgame\obj\x86\Debug\Wpfgame.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Projects\Wpfgame - Kopia\Wpfgame\bin\Debug\Wpfgame.exe
+C:\Users\User\Desktop\Projects\Wpfgame - Kopia\Wpfgame\bin\Debug\Wpfgame.pdb
+C:\Users\User\Desktop\Projects\Wpfgame - Kopia\Wpfgame\bin\Debug\WpfApplication1.exe
+C:\Users\User\Desktop\Projects\Wpfgame - Kopia\Wpfgame\bin\Debug\WpfApplication1.pdb

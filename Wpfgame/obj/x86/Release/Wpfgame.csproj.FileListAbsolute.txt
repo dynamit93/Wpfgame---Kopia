@@ -1,0 +1,7 @@
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Release\MainWindow.baml
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Release\MainWindow.g.cs
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Release\App.g.cs
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Release\Wpfgame_MarkupCompile.cache
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Release\Wpfgame.g.resources
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Release\Wpfgame.Properties.Resources.resources
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\Wpfgame\obj\x86\Release\Wpfgame.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\WpfApplication1\obj\x86\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\WpfApplication1\obj\x86\Release\WpfApplication1.g.resources
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\WpfApplication1\obj\x86\Release\Form2Characterlist.csproj.GenerateResource.Cache
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\WpfApplication1\obj\x86\Release\WpfApplication1.exe
+C:\Users\Dennis\documents\visual studio 2010\Projects\Wpfgame\WpfApplication1\obj\x86\Release\WpfApplication1.pdb
